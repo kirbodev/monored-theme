@@ -1,5 +1,5 @@
-title: tonic-starter
-description: ""
+title: monored
+description: "Monored Theme is a minimalistic theme for Jekyll using mostly monochrome colors with red accents"
 encoding: utf-8
 
 exclude: ["README.md", "LICENSE", "*.gem", "*.gemspec", "Gemfile.lock"]
