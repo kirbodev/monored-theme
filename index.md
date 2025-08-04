@@ -1,4 +1,5 @@
 ---
+layout: default
 ---
 
 # Monored Theme
